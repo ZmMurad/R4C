@@ -1,0 +1,6 @@
+*/.vscode/
+.env
+Pipfile
+Pipfile.lock
+.pyc
+*.pyc
